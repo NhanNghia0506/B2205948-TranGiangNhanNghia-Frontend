@@ -15,7 +15,7 @@
     </div>
 </template>
 <style>
-.page {
+.page { 
     max-width: 400px;
     margin: auto;
 }
